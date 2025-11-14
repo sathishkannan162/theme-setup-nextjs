@@ -1,4 +1,4 @@
-# Awesome Table - Next.js Starter
+# Theme setup
 
 A modern Next.js starter project with TypeScript, Tailwind CSS v4, and React Compiler, configured with Biome for linting and ESLint for React-specific rules.
 
